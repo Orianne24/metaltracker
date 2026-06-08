@@ -85,14 +85,14 @@ const GOLD_BULLIONS = [
 ];
 
 const SILVER_RETAIL = {
-  maple:38.5,britannia:39.2,philharmonic:38.8,american_eagle:44.2,krugerrand:40.1,
-  libertad:47.0,kookaburra:41.3,kangaroo:40.8,nugget:41.5,lunar:43.5,koala:41.0,
-  wiener:39.5,panda:45.8,somalian:42.2,semeuse:31.5,hercule:35.5,france_be:36.5,
+  maple:71.0,britannia:72.2,philharmonic:71.5,american_eagle:75.0,krugerrand:72.8,
+  libertad:78.0,kookaburra:73.5,kangaroo:72.8,nugget:73.5,lunar:75.5,koala:73.0,
+  wiener:72.0,panda:76.5,somalian:74.0,semeuse:58.0,hercule:65.0,france_be:67.0,
 };
 const GOLD_RETAIL = {
-  maple:2955,britannia:2965,philharmonic:2950,american_eagle:3020,krugerrand:2980,
-  libertad:3050,kangaroo:2945,nugget:2948,lunar:2990,kookaburra:2955,panda:3080,
-  napoleon:310,semeuse:312,sovereign:385,vreneli:315,buffalo:2970,
+  maple:4010,britannia:4025,philharmonic:4005,american_eagle:4120,krugerrand:4060,
+  libertad:4150,kangaroo:3995,nugget:4000,lunar:4060,kookaburra:4010,panda:4180,
+  napoleon:415,semeuse:418,sovereign:520,vreneli:418,buffalo:4030,
 };
 
 const SILVER_SPOT_BASE = 63.00;
