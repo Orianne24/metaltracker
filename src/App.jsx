@@ -95,8 +95,8 @@ const GOLD_RETAIL = {
   napoleon:310,semeuse:312,sovereign:385,vreneli:315,buffalo:2970,
 };
 
-const SILVER_SPOT_BASE = 32.00;
-const GOLD_SPOT_BASE   = 2820.00;
+const SILVER_SPOT_BASE = 63.00;
+const GOLD_SPOT_BASE   = 3837.00;
 
 const COUNTRIES_SILVER = ["Tous","France","Australie","Canada","Royaume-Uni","Autriche","États-Unis","Mexique","Afrique du Sud","Chine","Somalie"];
 const COUNTRIES_GOLD   = ["Tous","France","Australie","Canada","Royaume-Uni","Autriche","États-Unis","Mexique","Afrique du Sud","Chine","Suisse"];
